@@ -1,0 +1,2 @@
+uname=Tony
+pwd=Manjeet@222
